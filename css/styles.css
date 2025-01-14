@@ -45,7 +45,8 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
   }
-  
+  .h1-button:hover,
+  .h1-button:focus
   .nav-link:hover,
   .nav-link:focus,
   .contacts-link:hover,
@@ -68,9 +69,7 @@ a{
   }
   .h1-button{
     border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
+
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background-color: #4d5ae5;
 font-family: "Roboto", sans-serif;
@@ -79,5 +78,4 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
-  }
-.goals{
+  
