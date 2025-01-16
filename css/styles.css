@@ -65,7 +65,7 @@ a{
     text-align: center;
     color: #fff;  
   }
-  .h1-button{
+  .btn-order{
 background-color: #4d5ae5;
 font-family: "Roboto", sans-serif;
 font-weight: 500;
@@ -75,8 +75,8 @@ letter-spacing: 0.04em;
 color: #fff;
   }
   
-  .h1-button:hover,
-  .h1-button:focus{
+  .btn-order:hover,
+  .btn-order:focus{
   background-color: #4d5ae5;
     cursor: pointer;
   }
@@ -112,12 +112,12 @@ color: #fff;
     letter-spacing: 0.02em;
     color: #2e2f42;
   }
-  .team-list{
-    background-color: #FFFFFF;
-  }
+  
+  
 .team-item{
   line-height: 1.5;
   letter-spacing: 0.02em;
+  background-color: #FFFFFF;
 }
 
 .portfolio-title{
@@ -127,6 +127,7 @@ color: #fff;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  background-color:#FFFFFF
 }
 .performed{
   font-weight: 500;
