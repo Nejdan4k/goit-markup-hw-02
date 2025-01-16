@@ -53,7 +53,7 @@ a{
     color: #404bbf;
   }
   
-  h1{
+  .title{
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 56px;
@@ -77,5 +77,62 @@ color: #fff;
     color: #404bbf;
     cursor: pointer;
   }
+
+  .goals-title{
+    font-weight:500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  }
   
-  
+  .goals-item-text{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+  }
+
+  .team{
+    background-color: #F4F4FD;
+  }
+  .team-title{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+  }
+  .team-name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  }
+  .team-list{
+    background-color: #FFFFFF;
+  }
+.team-item{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.portfolio-title{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.performed{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.product-type{
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
