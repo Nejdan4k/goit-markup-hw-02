@@ -77,11 +77,12 @@ color: #fff;
   
   .btn-order:hover,
   .btn-order:focus{
-  background-color: #4d5ae5;
+  background-color: #404BBF;
+  color: #FFFFFF;
     cursor: pointer;
   }
 
-  .goals-title{
+  .section-title{
     font-weight:500;
     font-size: 20px;
     line-height: 1.2;
