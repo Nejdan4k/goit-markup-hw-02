@@ -53,6 +53,9 @@ a{
     color: #404bbf;
   }
   
+  .introduction{
+    background-color:#2e2f42
+  }
   .title{
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -71,10 +74,10 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
   }
-  .h1-button{
+  
   .h1-button:hover,
-  .h1-button:focus
-    color: #404bbf;
+  .h1-button:focus{
+  background-color: #4d5ae5;
     cursor: pointer;
   }
 
