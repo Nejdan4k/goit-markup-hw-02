@@ -52,11 +52,7 @@ a{
   .contacts-link:focus {
     color: #404bbf;
   }
-  .introduction{
-    width: 1440px;
-    height: 600px;
-    background-color:#2e2f42
-  }
+  
   h1{
     font-family: "Roboto", sans-serif;
     font-weight: 700;
@@ -75,8 +71,11 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
   }
+  .h1-button{
   .h1-button:hover,
-  .h1-button:focus{
+  .h1-button:focus
     color: #404bbf;
+    cursor: pointer;
   }
+  
   
